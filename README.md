@@ -1,6 +1,13 @@
 # Está é uma página de um app fictício que realizei para treinar HTML, CSS e responsividade :)
 
 
+<div align="center">
+
+
+![img-appficticio](https://user-images.githubusercontent.com/108489523/208151103-dfc41302-eacf-43a0-9466-e9c37975c82a.JPG) width=200px
+</div>
+
+
 
 🛠️ Tecnologias utilizadas:<br>
 HTML <br>
