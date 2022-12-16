@@ -4,7 +4,7 @@
 <div align="center">
 
 
-![img-appficticio](https://user-images.githubusercontent.com/108489523/208151103-dfc41302-eacf-43a0-9466-e9c37975c82a.JPG) width=200px
+![img-appficticio](https://user-images.githubusercontent.com/108489523/208151103-dfc41302-eacf-43a0-9466-e9c37975c82a.JPG) 
 </div>
 
 
